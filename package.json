@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/m-akramb/node_ab/issues"
   },
-  "homepage": "https://github.com/m-akramb/node_ab#readme"
+  "homepage": "https://github.com/m-akramb/node_ab#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
